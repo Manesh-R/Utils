@@ -7,5 +7,5 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Manesh-R/Utils/master/
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Manesh-R/Utils/master/MsSqlCmdLnUtils.msi" -OutFile "C:\03.MsSqlCmdLnUtils.msi"
 
 
-
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Manesh-R/azure-synapse-analytics-workshop-400/master/artifacts/environment-setup/solliance-synapse-automation/solliance-synapse-automation.psm1" -OutFile "c:\LabFiles\SollianceGit\artifacts\environment-setup\solliance-synapse-automation\solliance-synapse-automation.psm1"
 
